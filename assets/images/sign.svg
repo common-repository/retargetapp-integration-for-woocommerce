@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="58px" viewBox="0 0 57 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>sign</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WooCommerce-/-Admin-Panel" transform="translate(-255.000000, -325.000000)" fill="#FFFFFF">
+            <g id="🚨-Notification" transform="translate(225.000000, 308.000000)">
+                <g id="sign" transform="translate(28.946593, 16.653061)">
+                    <text id="sign-title" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="21" letter-spacing="0.25">
+                        <tspan x="0" y="53.8265306">Required</tspan>
+                    </text>
+                    <path d="M12.1595274,26.8140673 C11.0155722,28.7060716 11.8716244,30.2398441 14.0865553,30.2398441 L44.1231474,30.2398441 C46.3313707,30.2398441 47.1914043,28.7015627 46.0501752,26.8140673 L31.1761655,2.21372578 C30.0322103,0.321721529 28.1747662,0.326230449 27.0335372,2.21372578 L12.1595274,26.8140673 Z M30.2234771,25.9016517 L26.8675998,25.9016517 L26.8675998,22.6480073 L30.2234771,22.6480073 L30.2234771,25.9016517 Z M30.2234771,19.394363 L26.8675998,19.394363 L26.8675998,11.8025263 L30.2234771,11.8025263 L30.2234771,19.394363 Z" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

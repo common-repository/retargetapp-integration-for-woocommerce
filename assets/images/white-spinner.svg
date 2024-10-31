@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Basic: Icons / Spinner / white</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,18.5 C9.17157288,18.5 8.5,17.8284271 8.5,17 C8.5,16.1715729 9.17157288,15.5 10,15.5 C13.0375661,15.5 15.5,13.0375661 15.5,10 C15.5,6.96243388 13.0375661,4.5 10,4.5 C7.19150524,4.5 4.84165897,6.61653314 4.53402119,9.38360082 C4.4424821,10.206955 3.70081457,10.8002083 2.8774604,10.7086693 C2.05410622,10.6171302 1.46085288,9.87546263 1.55239197,9.05210846 C2.02848195,4.7698867 5.65882012,1.5 10,1.5 C14.6944204,1.5 18.5,5.30557963 18.5,10 C18.5,14.6944204 14.6944204,18.5 10,18.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Woocommerce" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Button-States" transform="translate(-156.000000, -487.000000)">
+            <g id="CTA-/-Button/-Continue-/-Loader" transform="translate(45.000000, 476.000000)">
+                <g id="Basic:-Icons-/-Spinner-/-white" transform="translate(110.000000, 10.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="Basic:-Color-/-Secondary-/-Grey:-Page-background" mask="url(#mask-2)" fill="#F6F7FB" fill-rule="evenodd">
+                        <g transform="translate(-50.000000, -50.000000)" id="Grey:-Page-background">
+                            <rect x="0" y="0" width="120" height="120"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
